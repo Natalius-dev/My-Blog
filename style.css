@@ -21,3 +21,8 @@ button:active {
     transform: translateY(4px);
     outline: none;
 }
+
+p {
+    width: 100%;
+    max-width: 45%;
+}
