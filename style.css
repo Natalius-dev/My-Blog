@@ -46,7 +46,11 @@ figcaption {
 
 ul {
     list-style-type: none;
-    padding-bottom: 8px;
+    margin-left: -35px;
+}
+
+li {
+    margin-bottom: 12px;
 }
 
 .wrapper {
